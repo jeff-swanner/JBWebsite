@@ -1590,10 +1590,14 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Scope One", serif;
+		font-family: 'Noto Sans SC', sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.65;
+	}
+	
+	h1 {
+		font-family: 'Cabin Sketch', cursive;
 	}
 
 		@media screen and (max-width: 1680px) {
